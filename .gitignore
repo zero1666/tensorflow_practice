@@ -1,3 +1,4 @@
 *.gz
 MNIST_data/
 .ipynb_checkpoints/
+model/
