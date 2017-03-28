@@ -3,3 +3,5 @@ MNIST_data/
 .ipynb_checkpoints/
 model/
 *.zip
+simple-examples/
+simple-examples*
