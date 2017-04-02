@@ -5,3 +5,5 @@ model/
 *.zip
 simple-examples/
 simple-examples*
+__pycache__/
+
