@@ -7,4 +7,8 @@ models/
 simple-examples/
 simple-examples*
 __pycache__/
+flower_photos/
+flower_photos.tgz
+inception_dec_2015.zip
+inception_dec_2015/
 
